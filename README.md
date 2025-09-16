@@ -39,11 +39,11 @@ The app is **gamified, educational, and community-driven** — making sustainabi
 
 | Challenge Completed | Shopping Page |
 |---------------------|---------------|
-| ![Challenge Completed](screenshots/challenge_completed.jpeg) | ![Shopping Page](screenshots/shopping_page.jpeg) |
+| ![Challenge Completed](challenge_completed.jpeg) | ![Shopping Page](shopping_page.jpeg) |
 
 | Community Page | Badge Page |
 |----------------|------------|
-| ![Community Page](screenshots/community_page.jpeg) | ![Badge Page](screenshots/badge_page.jpeg) |
+| ![Community Page](community_page.jpeg) | ![Badge Page](badge_page.jpeg) |
 
 ---
 
