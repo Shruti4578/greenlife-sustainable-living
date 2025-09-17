@@ -43,7 +43,7 @@ The app is **gamified, educational, and community-driven** — making sustainabi
 
 | Community Page | Badge Page |
 |----------------|------------|
-| ![Community Page](community_page.jpeg) | ![Badge Page](badge_page.jpeg) |
+| ![Community Page](community_page.jpeg) | ![Home Page](home_page.jpeg) |
 
 ---
 
