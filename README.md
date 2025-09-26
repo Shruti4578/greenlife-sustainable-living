@@ -66,8 +66,8 @@ The app is **gamified, educational, and community-driven** — making sustainabi
 ## 👩‍💻 Team Members  
 - Shruti Verma
 - Lishi Sah  
-- Pallavi Raj sah
-- 
+- Pallavi Raj 
+  
 
 
 ---
