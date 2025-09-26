@@ -3,7 +3,7 @@ GreenLife: Sustainable Living Tracker - Encourage users to incorporate simple, a
 
 ---
 
-# 🌱 GreenLife – Sustainable Living Tracker App
+# 🌱 GreenLife – Sustainable Living Tracker Application
 
 **App Demo Video:** [Watch on LinkedIn](https://www.linkedin.com/posts/pallavi-raj-562645257_opentofeedback-devjourney-buildinpublic-ugcPost-7354210694264758276-ghkp?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAEBUSG4BMzR8doq_60YUUfbDPuKNky451KY&utm_campaign=whatsapp)
 
